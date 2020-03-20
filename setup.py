@@ -14,7 +14,3 @@ setup(name="sample_app",
       tests_require=["pytest"],
       package_dir={'': 'maproulette'},
       install_requires=['requests'])
-
-
-
-asdfasdfads
